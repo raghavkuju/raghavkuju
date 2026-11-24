@@ -42,16 +42,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
-
-## Hi there 👋# 💫 About Me:
-🔭 I’m currently working on HIKARI AI, Cyber Threat Detection System, and AI-powered applications.<br><br>👯 I’m looking to collaborate on Open Source, Artificial Intelligence, Machine Learning, and Full-Stack Development projects.<br><br>🤝 I’m looking for help with advanced AI development, LLM integration, and scalable software architecture.<br><br>🌱 I’m currently learning Generative AI, Python, JavaScript, React.js, Backend Development, and Data Structures & Algorithms.<br><br>💬 Ask me about Python, Web Development, Machine Learning, Cybersecurity, and my projects.<br><br>⚡ Fun fact: I enjoy turning real-world problems into innovative technology solutions. My philosophy is — Learn, Build, Innovate, Repeat!
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_raghav568) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/	deepak-kujur-690a34268) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepakkujur568@gmail.com) 
 
