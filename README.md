@@ -1,3 +1,28 @@
+# 💫 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deepak+Kujur!;Aspiring+AI+Engineer;Software+Developer;Building+Intelligent+Systems" />
+</p>
+
+<img align="right" alt="Animated Developer" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🔭 I’m currently working on HIKARI AI and Cyber Threat Detection System.
+
+👯 I’m looking to collaborate on AI, ML and Open Source projects.
+
+🤝 I’m looking for help with LLM development and software architecture.
+
+🌱 I’m currently learning Generative AI, Python, React.js and Backend Development.
+
+💬 Ask me about Python, AI, Machine Learning and Web Development.
+
+⚡ Fun fact: I turn ideas into code and problems into solutions.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
